@@ -1,1 +1,8 @@
 
+docs(guide): update fixed docs from Google Docs
+
+Couple of typos fixed:
+- indentation
+- batchLogbatchLog -> batchLog
+- start periodic checking
+- missing brace
